@@ -7,20 +7,20 @@ class App extends Component {
     state = {
         characters:[
             {
-                'name': 'name1',
-                'job': 'job1'
+                'name': 'Charlie',
+                'job': 'Janitor'
             },
             {
-                'name': 'name2',
-                'job': 'job2'
+                'name': 'Mac',
+                'job': 'Bouncer'
             },
             {
-                'name': 'name3',
-                'job': 'job3'
+                'name': 'Dee',
+                'job': 'Aspiring Actress'
             },
             {
-                'name': 'name4',
-                'job': 'job4'
+                'name': 'Dennis',
+                'job': 'Bartender'
             }
         ]
     };
